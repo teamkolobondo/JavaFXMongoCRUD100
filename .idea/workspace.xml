@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1872859d-6b81-476f-b8ca-dafd5c05db87" name="Changes" comment="Modificar el texto del botón">
+    <list default="true" id="1872859d-6b81-476f-b8ca-dafd5c05db87" name="Changes" comment="capa visual mostrar&#10;en ListView">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/empresa/javafxmongocrud100/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/empresa/javafxmongocrud100/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/empresa/javafxmongocrud100/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,18 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "teamkolobondo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;teamkolobondo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/teamkolobondo/JavaFXMongoCRUD100.git",
-    "accountId": "be3e91ee-96f5-4388-bd6b-4f4ad4fbc343"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/teamkolobondo/JavaFXMongoCRUD100.git&quot;,
+    &quot;accountId&quot;: &quot;be3e91ee-96f5-4388-bd6b-4f4ad4fbc343&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -36,9 +36,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gXwvtp5PZBJhrAZVFpIffJpbVR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,6 +48,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloApplication.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -57,6 +61,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -97,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715857464754</updated>
       <workItem from="1715857465786" duration="2391000" />
+      <workItem from="1715859883211" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="Modificar el texto del botón">
       <option name="closed" value="true" />
@@ -106,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715858362132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="capa visual mostrar&#10;en ListView">
+      <option name="closed" value="true" />
+      <created>1715860218199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715860218199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +142,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modificar el texto del botón" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificar el texto del botón" />
+    <MESSAGE value="capa visual mostrar&#10;en ListView" />
+    <option name="LAST_COMMIT_MESSAGE" value="capa visual mostrar&#10;en ListView" />
   </component>
 </project>
